@@ -1,5 +1,8 @@
 ## Análise de Dados do COVID-19 - Prova de Estatística (1º Semestre) - FIAP
 
+![Python](https://img.shields.io/badge/Linguagem-Python-blue?logo=python&logoColor=white)
+![Google Colab](https://img.shields.io/badge/IDE-Google%20Colab-orange?logo=googlecolab)
+
 Esta análise de dados foi desenvolvida como parte da disciplina de Estatística, no primeiro semestre da FIAP. O objetivo do estudo foi explorar e interpretar dados relacionados ao COVID-19 utilizando Python, aplicando conceitos estatísticos para avaliar casos, óbitos, recuperações e tendências ao longo do tempo.
 
 
